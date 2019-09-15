@@ -4,7 +4,7 @@ This is my first project with React. It's a simple calculator with all 4 operati
 
 Print:
 
-![print](img/print.jpg)
+![print](img/print.JPG)
 
 ## Available Scripts
 
