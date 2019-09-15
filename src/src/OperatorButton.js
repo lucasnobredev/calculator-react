@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import './OperatorButton.css';
-import Calculator from './Calculator'
 
 function OperatorButton({operator, operatorChoose, handleChanged}){
     return (
